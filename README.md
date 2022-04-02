@@ -3,7 +3,10 @@
 I'm working as a .NET software engineer at Intellias.
 
 ### What I'm focusing on 👨‍💻
-Currently working with: large files processing, blockchain and games developing.
+- Large files processing
+- Blockchain 
+- Games development
+- Enterprise solutions building and scaling
 
 ### Find me elsewhere
 
