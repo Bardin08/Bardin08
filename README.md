@@ -26,6 +26,12 @@
   <a href="https://www.linkedin.com/in/bardin08/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vladyslav_Bardin-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
-<p align="center">
+<div align="center">
   <strong>Glory to Ukraine! 🇺🇦✨</strong>
+</div>
+
+---
+
+<p align="center">
+  <img href="#" src="https://github-readme-stats-bardin08s-projects.vercel.app/api?username=Bardin08&show_icons=true&theme=dark#gh-dark-mode-only"></img>
 </p>
