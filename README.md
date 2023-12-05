@@ -35,3 +35,7 @@
 <p align="center">
   <img href="#" src="https://github-readme-stats-bardin08s-projects.vercel.app/api?username=Bardin08&show_icons=true&theme=dark#gh-dark-mode-only"></img>
 </p>
+
+<p align="center">
+  <img href="#" src="https://github-readme-stats-bardin08s-projects.vercel.app/api/top-langs?username=Bardin08&layout=compact&theme=dark#gh-dark-mode-only&langs_count=8"></img>
+</p>
