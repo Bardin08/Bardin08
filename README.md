@@ -31,6 +31,9 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bardin08&theme=onedark&column=3"/>
+</p>
 
 <p align="center">
   <img href="#" src="https://github-readme-stats-bardin08s-projects.vercel.app/api?username=Bardin08&show_icons=true&theme=dark#gh-dark-mode-only"></img>
