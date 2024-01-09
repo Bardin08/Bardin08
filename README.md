@@ -1,10 +1,18 @@
-<h3 align="center">👋 Hi, I'm Vladyslav Bardin</h3>
+## 👋 Hi, I'm Vladyslav Bardin
 
-<p align="center">
-  A passionate .NET Software Engineer crafting impactful, high-performance solutions and Assistant at the Kyiv School of Economics.
-</p>
+A Software Engineer and student at Ukraine's premier technical university. My expertise lies in designing and improving sophisticated tools, with a recent focus on a highly scalable distributed notification system. In addition to these technical pursuits, I'm involved in backend development for a gen-AI platform and maintain active engagement in my university community. I also share my knowledge and experience as a lecturer at the Kyiv School of Economics.
 
-<h3 align="center">🚀 Focused Areas in Tech</h3>
+### 🌱 What I Do and What I've Done:
+
+- Lecturer at [Kyiv School of Economics](https://www.linkedin.com/school/eerc-kyiv-school-of-economics-kse-/) (KSE) since 2023, teaching Programming Concepts, Algorithms and Data Structures and Software Development Practices in English.
+- Authored and maintain the [.NET Roadmap](https://github.com/Bardin08/dotnet-roadmap) on GitHub, a guide offering structured .NET learning paths, exercises, and projects for developers at all levels.
+- Developed and currently maintain [Trumpee](https://github.com/trumpee), a distributed notification system designed to streamline and improve notification management.
+- Currently enrolled in a B.S. in Software Engineering at the [National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”](https://kpi.ua/en/) (2020 - 2024).
+- Volunteer and education department leader with the Student Council.
+- Orchestrated a hackathon as a team leader, managing a group of 15 students.
+- Acted as a Lector's assistant for 'Modern Development Techniques on .NET' and co-created and taught an advanced .NET course.
+
+<h3 align="center"> 🚀 Focused Areas in Tech </h3>
 
 <p align="center">
   <a href="#"><img alt="Big Data" src="https://img.shields.io/badge/Big_Data-🗄️-blue?style=flat-square"></a>
@@ -16,7 +24,7 @@
 <h3 align="center">🎓 Academic Involvement</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/school/eerc-kyiv-school-of-economics-kse-/"><img alt="Kyiv School of Economics" src="https://img.shields.io/badge/KSE-Assistant-blue?style=flat-square&logo=linkedin"></a>
+  <a href=""><img alt="Kyiv School of Economics" src="https://img.shields.io/badge/KSE-Assistant-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 <h3 align="center">🌐 Let's Connect</h3>
