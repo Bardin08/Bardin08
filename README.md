@@ -12,36 +12,25 @@ A Software Engineer and student at Ukraine's premier technical university. My ex
 - Orchestrated a hackathon as a team leader, managing a group of 15 students.
 - Acted as a Lector's assistant for 'Modern Development Techniques on .NET' and co-created and taught an advanced .NET course.
 
-<h3 align="center"> 🚀 Focused Areas in Tech </h3>
+### 📫 How to reach me?
+- [LinkedIn](https://www.linkedin.com/in/bardin08/) 
 
-<p align="center">
-  <a href="#"><img alt="Big Data" src="https://img.shields.io/badge/Big_Data-🗄️-blue?style=flat-square"></a>
-  <a href="#"><img alt="Optimizations" src="https://img.shields.io/badge/Optimizations-⚡-yellow?style=flat-square"></a>
-  <a href="#"><img alt="High Performance Tech" src="https://img.shields.io/badge/High_Performance_Tech-🚀-green?style=flat-square"></a>
-  <a href="#"><img alt="Enterprise Solutions" src="https://img.shields.io/badge/Enterprise_Solutions-🏢-orange?style=flat-square"></a>
-</p>
+### Skills
+![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<h3 align="center">🎓 Academic Involvement</h3>
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
-<p align="center">
-  <a href=""><img alt="Kyiv School of Economics" src="https://img.shields.io/badge/KSE-Assistant-blue?style=flat-square&logo=linkedin"></a>
-</p>
-
-<h3 align="center">🌐 Let's Connect</h3>
-
-<p align="center">
-  <a href="https://www.t.me/bardin08"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@bardin08-blue?style=flat-square&logo=telegram"></a>
-  <a href="https://www.linkedin.com/in/bardin08/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vladyslav_Bardin-blue?style=flat-square&logo=linkedin"></a>
-</p>
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 <div align="center">
-  <strong>Glory to Ukraine! 🇺🇦✨</strong>
+  <h3><strong>Glory to Ukraine! 🇺🇦✨</strong></h3>
 </div>
-
----
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bardin08&theme=onedark&column=3"/>
-</p>
 
 ---
 <p align="center">
