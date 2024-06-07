@@ -4,7 +4,7 @@ I am a software engineer and student at Ukraine's premier technical university. 
 
 ### 🌱 What I Do and What I've Done:
 
-- Lecturer at [Kyiv School of Economics](https://www.linkedin.com/school/eerc-kyiv-school-of-economics-kse-/) (KSE) since 2023, teaching Programming Concepts, Algorithms and Data Structures, and Software Development Practices in English.
+- Lecturer at [Kyiv School of Economics](https://www.linkedin.com/school/eerc-kyiv-school-of-economics-kse-/) (KSE) since September 2023, teaching Programming Concepts, Algorithms and Data Structures, and Software Development Practices in English.
 - Authored and maintained the [.NET Roadmap](https://github.com/Bardin08/dotnet-roadmap) on GitHub, a guide offering structured .NET learning paths, exercises, and projects for developers at all levels.
 - Developed and maintains [Trumpee](https://github.com/trumpee), a distributed notification system designed to streamline and improve notification management.
 - Currently enrolled in a B.S. in Software Engineering at the [National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”](https://kpi.ua/en/) (2020 - 2024).
