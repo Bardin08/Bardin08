@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Vladyslav Bardin
 
-I am a software engineer and student at Ukraine's premier technical university. My expertise lies in designing and improving sophisticated tools, with a recent focus on a highly scalable distributed notification system. In addition to these technical pursuits, I'm involved in backend development for a gen-AI platform and maintain active engagement in my university community. I also share my knowledge and experience as a lecturer at the Kyiv School of Economics.
+I am a software engineer. My expertise lies in designing and improving sophisticated tools, with a recent focus on a highly scalable distributed notification system. In addition to these technical pursuits, I'm involved in backend development for a gen-AI platform and maintain active engagement in my university community. I also share my knowledge and experience as a lecturer at the Kyiv School of Economics.
 
 ### 🌱 What I Do and What I've Done:
 
