@@ -1,21 +1,27 @@
 ## 👋 Hi, I'm Vladyslav Bardin
 
-I am a software engineer. My expertise lies in designing and improving sophisticated tools, with a recent focus on a highly scalable distributed notification system. In addition to these technical pursuits, I'm involved in backend development for a gen-AI platform and maintain active engagement in my university community. I also share my knowledge and experience as a lecturer at the Kyiv School of Economics.
+I am a software engineer with a Bachelor’s degree in Computer Science. My expertise spans designing and enhancing sophisticated tools, with a focus on scalable distributed systems, backend architecture, and AI platforms. I actively contribute to the tech community as a mentor, events speaker, and lecturer at the Kyiv School of Economics.
 
 ### 🌱 What I Do and What I've Done:
 
-- Lecturer at [Kyiv School of Economics](https://www.linkedin.com/school/eerc-kyiv-school-of-economics-kse-/) (KSE) since September 2023, teaching Programming Concepts, Algorithms and Data Structures, and Software Development Practices in English.
-- Authored and maintained the [.NET Roadmap](https://github.com/Bardin08/dotnet-roadmap) on GitHub, a guide offering structured .NET learning paths, exercises, and projects for developers at all levels.
-- Developed and maintains [Trumpee](https://github.com/trumpee), a distributed notification system designed to streamline and improve notification management.
-- Currently enrolled in a B.S. in Software Engineering at the [National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”](https://kpi.ua/en/) (2020 - 2024).
-- Volunteer and education department leader with the Student Council.
-- Orchestrated a hackathon as a team leader, managing a group of 15 students.
-- Acted as a Lector's assistant for 'Modern Development Techniques on .NET' and co-created and taught an advanced .NET course.
+- **Mentor and Educator**  
+  - Mentoring developers, offering guidance on .NET, career progression, and building robust software systems.  
 
-### 📫 How to reach me?
-- [LinkedIn](https://www.linkedin.com/in/bardin08/) 
+- **Academic and Leadership Achievements**  
+  - Graduated with a Bachelor’s degree in Software Engineering from the [National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”](https://kpi.ua/en/) (2020–2024).  
+  - Co-created and taught an advanced .NET course as a lecturer’s assistant for 'Modern Development Techniques on .NET'.  
+  - Former lecturer at [Kyiv School of Economics](https://www.linkedin.com/school/eerc-kyiv-school-of-economics-kse-/) (KSE) since September 2023, teaching **Programming Concepts**, **Algorithms and Data Structures**, and **Software Development Practices** in English.  
+  - Volunteer and education department leader within the Student Council.  
+  - Organized a hackathon as a team leader, managing a team of 15 students to deliver innovative projects.  
 
-### Skills
+- **Active Speaker**  
+  - Frequent speaker at tech events and meetups, sharing insights on .NET, software engineering best practices, and career development.  
+
+### 📫 How to Reach Me?
+- [LinkedIn](https://www.linkedin.com/in/bardin08/)  
+- [YouTube](https://www.youtube.com/@bardin_speaks)  
+
+### 🛠️ Skills and Expertise
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,11 +34,17 @@ I am a software engineer. My expertise lies in designing and improving sophistic
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
+### 💡 Core Values
+- **Empowering others** through mentorship and sharing knowledge.  
+- **Continuous improvement** as a lifelong learner and engineer.  
+- **Fostering innovation** in distributed systems and AI platforms.
+
 <div align="center">
   <h3><strong>Glory to Ukraine! 🇺🇦✨</strong></h3>
 </div>
 
 ---
+
 <p align="center">
   <img href="#" src="https://github-readme-stats-bardin08s-projects.vercel.app/api?username=Bardin08&show_icons=true&theme=dark#gh-dark-mode-only"></img>
 </p>
