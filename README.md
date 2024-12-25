@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Vladyslav Bardin
 
-I am a software engineer with a Bachelor’s degree in Computer Science. My expertise spans designing and enhancing sophisticated tools, with a focus on scalable distributed systems, backend architecture, and AI platforms. I actively contribute to the tech community as a mentor, events speaker, and lecturer at the Kyiv School of Economics.
+I am a software engineer with a Bachelor’s degree in Computer Science. My expertise spans designing and enhancing sophisticated tools, focusing on scalable distributed systems, backend architecture, and AI platforms. I actively contribute to the tech community as a mentor, events speaker, and consultant.
 
 ### 🌱 What I Do and What I've Done:
 
