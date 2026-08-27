@@ -1,54 +1,40 @@
-## 👋 Hi, I'm Vladyslav Bardin
+# Vladyslav Bardin
 
-Hi, I’m Vladyslav Bardin, a results-driven Senior Software Engineer with extensive experience in backend development, scalable systems, and leading engineering teams. My passion lies in delivering impactful solutions and fostering collaboration to achieve exceptional results.
+**Senior backend engineer running an AI-driven SDLC inside a real enterprise. I teach engineers to do the same — without working more hours than they do now.**
 
-### 🌱 What I Do and What I've Done:
+Backend and distributed systems at high load. Agentic systems in production, not in a notebook: shipped, reviewed by a security team, and running under compliance constraints.
 
-- **Mentor and Educator**  
-  - Mentoring developers, offering guidance on .NET, career progression, and building robust software systems.  
+### What I have built and led
 
-- **Academic and Leadership Achievements**  
-  - Graduated with a Bachelor’s degree in Software Engineering from the [National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”](https://kpi.ua/en/) (2020–2024).  
-  - Co-created and taught an advanced .NET course as a lecturer’s assistant for 'Modern Development Techniques on .NET'.  
-  - Former lecturer at [Kyiv School of Economics](https://www.linkedin.com/school/eerc-kyiv-school-of-economics-kse-/) (KSE) since September 2023, teaching **Programming Concepts**, **Algorithms and Data Structures**, and **Software Development Practices** in English.  
-  - Volunteer and education department leader within the Student Council.  
-  - Organized a hackathon as a team leader, managing a team of 15 students to deliver innovative projects.  
+| | |
+|---|---|
+| Users served by systems I built | 20M+ |
+| Events processed daily | hundreds of millions |
+| Engineers led through AI adoption | 60+ |
+| Manual verification removed by one agentic solution | 200+ hours, built in ~10 |
+| Audit-log system redesign | 25 s → 0.5 s (60×) |
+| Notification platform at 20M-user scale | 20% faster delivery |
+| Engineers in the .NET community I led | 140+ |
+| University students taught | 150+ |
 
-- **Active Speaker**  
-  - Frequent speaker at tech events and meetups, sharing insights on .NET, software engineering best practices, and career development.  
+### Working with me
 
-### 📫 How to Reach Me?
-- [LinkedIn](https://www.linkedin.com/in/bardin08/)  
-- [YouTube](https://www.youtube.com/@bardin_speaks)  
+- **AI consulting** — getting agentic tooling into an engineering organisation and through its security review. Architecture, rollout, evaluation, cost.
+- **Mentorship** — a small number of slots for backend engineers who own a system end to end and want AI genuinely embedded in how they work. Async-heavy, outcome-oriented.
+- **Speaking** — .NET, distributed systems, AI in engineering practice.
 
-### 🛠️ Skills and Expertise
-![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Write to me on Telegram: [@Bardin08](https://t.me/Bardin08)** — direct messages, the fastest way to start a conversation.
+Engineering channel: [@tech_with_bardin](https://t.me/tech_with_bardin).
 
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+**Stack.** C# / .NET and ASP.NET Core · Kafka, RabbitMQ, MassTransit · PostgreSQL, MS SQL, MongoDB, Redis · Docker, Kubernetes, Terraform, AWS, GitHub Actions · Python · LLM agents, MCP, evaluation and observability.
 
-![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### Teaching
 
-### 💡 Core Values
-- **Empowering others** through mentorship and sharing knowledge.  
-- **Continuous improvement** as a lifelong learner and engineer.  
-- **Fostering innovation** in distributed systems and AI platforms.
+- Lecturer at the [Kyiv School of Economics](https://kse.ua/) — Programming Concepts, Algorithms and Data Structures, Software Development Practices, taught in English.
+- Co-created and taught *Modern Development Techniques on .NET* at [Igor Sikorsky Kyiv Polytechnic Institute](https://kpi.ua/en/).
+- MSc (2024–2026) and BSc (2020–2024) in Software Engineering, KPI.
+- Speaker at .NET and engineering meetups.
 
 <div align="center">
-  <h3><strong>Glory to Ukraine! 🇺🇦✨</strong></h3>
+  <h3><strong>Glory to Ukraine! 🇺🇦</strong></h3>
 </div>
-
----
-
-<p align="center">
-  <img href="#" src="https://github-readme-stats-bardin08s-projects.vercel.app/api?username=Bardin08&show_icons=true&theme=dark#gh-dark-mode-only"></img>
-</p>
-
-<p align="center">
-  <img href="#" src="https://github-readme-stats-bardin08s-projects.vercel.app/api/top-langs?username=Bardin08&layout=compact&theme=dark#gh-dark-mode-only&langs_count=8"></img>
-</p>
